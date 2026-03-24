@@ -417,7 +417,7 @@ ai:
   
   model: "moonshot/kimi-k2.5"
 
-  api_key: "sk-kimi-7oVPED6KAaC7rqSNPhZDLemJY8OzvN69m4s41o1bGfcvvgp2neapybG6phQNkVHV"                       # API Key（建议使用环境变量 AI_API_KEY）
+  api_key: "sk-IUWS7YENCr8SeyB9zqPoomZmMnEOo7mpYDbTukVlrlCzC4Fl"                       # API Key（建议使用环境变量 AI_API_KEY）
   
   api_base: ""                      # 自定义 API 端点（可选，大多数情况留空）
                                     # 示例: https://api.openai.com/v1（自建代理或兼容接口）
